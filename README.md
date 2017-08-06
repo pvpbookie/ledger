@@ -5,7 +5,7 @@
 	<title></title>
 	<meta name="generator" content="LibreOffice 5.1.6.2 (Linux)"/>
 	<meta name="created" content="2017-08-06T00:09:57.852658584"/>
-	<meta name="changed" content="2017-08-06T00:15:49.267240604"/>
+	<meta name="changed" content="2017-08-06T20:42:07.243439716"/>
 	
 	<style type="text/css">
 		body,div,table,thead,tbody,tfoot,tr,th,td,p { font-family:"Liberation Sans"; font-size:x-small }
@@ -17,6 +17,298 @@
 </head>
 
 <body>
+<hr>
+	<p><center>
+		<h1>Overview</h1>
+		<A HREF="#table0">Pivot Table_Sheet1_1</A><br>
+		<A HREF="#table1">Sheet1</A><br>
+		<A HREF="#table2">Database</A><br>
+		
+	</center></p>
+<hr>
+<A NAME="table0"><h1>Sheet 1: <em>Pivot Table_Sheet1_1</em></h1></A>
+<table cellspacing="0" border="0">
+	<colgroup width="87"></colgroup>
+	<colgroup span="4" width="57"></colgroup>
+	<colgroup width="86"></colgroup>
+	<colgroup width="63"></colgroup>
+	<colgroup span="2" width="57"></colgroup>
+	<colgroup width="553"></colgroup>
+	<colgroup span="2" width="57"></colgroup>
+	<colgroup width="125"></colgroup>
+	<colgroup width="57"></colgroup>
+	<colgroup width="283"></colgroup>
+	<colgroup span="2" width="57"></colgroup>
+	<tr>
+		<td style="border-top: 2px solid #000000; border-bottom: 1px solid #000000; border-left: 2px solid #000000; border-right: 1px solid #000000" height="17" align="left">test</td>
+		<td style="border-top: 2px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test2</td>
+		<td style="border-top: 2px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test3</td>
+		<td style="border-top: 2px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test4</td>
+		<td style="border-top: 2px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test5</td>
+		<td style="border-top: 2px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test6</td>
+		<td style="border-top: 2px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test7</td>
+		<td style="border-top: 2px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test8</td>
+		<td style="border-top: 2px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test9</td>
+		<td style="border-top: 2px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test10</td>
+		<td style="border-top: 2px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test11</td>
+		<td style="border-top: 2px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test12</td>
+		<td style="border-top: 2px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test13</td>
+		<td style="border-top: 2px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test14</td>
+		<td style="border-top: 2px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test15</td>
+		<td style="border-top: 2px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test32</td>
+		<td style="border-top: 2px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 2px solid #000000" align="left">(empty)</td>
+	</tr>
+	<tr>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 2px solid #000000; border-right: 1px solid #000000" height="17" align="left" sdval="1" sdnum="1043;">1</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" sdnum="1043;0;D. MMM. JJJJ">2. mrt. 2017</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" sdval="0,666666666666667" sdnum="1043;0;UU:MM:SS">16:00:00</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">UTC</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">http://www.test.com/test/test/_/id/testtesttesttesttesttesttesttesttesttesttesttesttesttesttest</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" sdval="2" sdnum="1043;">2</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">testtesttesttesttest</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">testtesttesttesttesttesttesttesttesttesttesttest</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 2px solid #000000" align="left"><br></td>
+	</tr>
+	<tr>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 2px solid #000000; border-right: 1px solid #000000" height="17" align="left" sdval="2" sdnum="1043;">2</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" sdnum="1043;0;D. MMM. JJJJ">2. mrt. 2017</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" sdval="0,791666666666667" sdnum="1043;0;UU:MM:SS">19:00:00</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">UTC</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">http://www.test.com/test/test/_/id/testtesttesttesttesttesttesttesttesttesttesttesttesttesttest</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" sdval="2" sdnum="1043;">2</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">testtesttesttesttest</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">testtesttesttesttesttesttesttesttesttesttesttest</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 2px solid #000000" align="left"><br></td>
+	</tr>
+	<tr>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 2px solid #000000; border-right: 1px solid #000000" height="17" align="left" sdval="3" sdnum="1043;">3</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" sdnum="1043;0;D. MMM. JJJJ">4. mrt. 2017</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" sdval="0,625" sdnum="1043;0;UU:MM:SS">15:00:00</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">UTC</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">http://www.test.com/test/test/_/id/testtesttesttesttesttesttesttesttesttesttesttesttesttesttest</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" sdval="2" sdnum="1043;">2</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">testtesttesttesttest</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">testtesttesttesttesttesttesttesttesttesttesttest</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 2px solid #000000" align="left"><br></td>
+	</tr>
+	<tr>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 2px solid #000000; border-right: 1px solid #000000" height="17" align="left" sdval="4" sdnum="1043;">4</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" sdnum="1043;0;D. MMM. JJJJ">4. mrt. 2017</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" sdval="0,75" sdnum="1043;0;UU:MM:SS">18:00:00</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">UTC</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">http://www.test.com/test/test/_/id/testtesttesttesttesttesttesttesttesttesttesttesttesttesttest</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" sdval="2" sdnum="1043;">2</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">testtesttesttesttest</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">testtesttesttesttesttesttesttesttesttesttesttest</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 2px solid #000000" align="left"><br></td>
+	</tr>
+	<tr>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 2px solid #000000; border-right: 1px solid #000000" height="17" align="left" sdval="5" sdnum="1043;">5</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" sdnum="1043;0;D. MMM. JJJJ">1. aug. 2017</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" sdval="0,416666666666667" sdnum="1043;0;UU:MM:SS">10:00:00</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">CEST</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">http://www.test.com/test/test/_/id/testtesttesttesttesttesttesttesttesttesttesttesttesttesttest</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" sdval="2" sdnum="1043;">2</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">(empty)</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">(empty)</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">(empty)</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 2px solid #000000" align="left"><br></td>
+	</tr>
+	<tr>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 2px solid #000000; border-right: 1px solid #000000" height="17" align="left" sdval="6" sdnum="1043;">6</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" sdnum="1043;0;D. MMM. JJJJ">1. aug. 2017</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" sdval="0,541666666666667" sdnum="1043;0;UU:MM:SS">13:00:00</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">CEST</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">(empty)</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" sdval="2" sdnum="1043;">2</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">(empty)</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">(empty)</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">(empty)</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 2px solid #000000" align="left"><br></td>
+	</tr>
+	<tr>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 2px solid #000000; border-right: 1px solid #000000" height="17" align="left" sdval="7" sdnum="1043;">7</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" sdnum="1043;0;D. MMM. JJJJ">2. aug. 2017</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" sdval="0,416666666666667" sdnum="1043;0;UU:MM:SS">10:00:00</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">CEST</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">(empty)</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" sdval="2" sdnum="1043;">2</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">(empty)</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">(empty)</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">(empty)</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 2px solid #000000" align="left"><br></td>
+	</tr>
+	<tr>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 2px solid #000000; border-right: 1px solid #000000" height="17" align="left" sdval="8" sdnum="1043;">8</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" sdnum="1043;0;D. MMM. JJJJ">2. aug. 2017</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" sdval="0,541666666666667" sdnum="1043;0;UU:MM:SS">13:00:00</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">CEST</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">(empty)</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" sdval="2" sdnum="1043;">2</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">(empty)</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">(empty)</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">(empty)</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 2px solid #000000" align="left"><br></td>
+	</tr>
+	<tr>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 2px solid #000000; border-right: 1px solid #000000" height="17" align="left" sdval="9" sdnum="1043;">9</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" sdnum="1043;0;D. MMM. JJJJ">3. aug. 2017</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" sdval="0,708333333333333" sdnum="1043;0;UU:MM:SS">17:00:00</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">CEST</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">(empty)</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" sdval="2" sdnum="1043;">2</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">(empty)</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">(empty)</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">(empty)</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 2px solid #000000" align="left"><br></td>
+	</tr>
+	<tr>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 2px solid #000000; border-right: 1px solid #000000" height="17" align="left" sdval="10" sdnum="1043;">10</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" sdnum="1043;0;D. MMM. JJJJ">3. aug. 2017</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" sdval="0,833333333333333" sdnum="1043;0;UU:MM:SS">20:00:00</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">CEST</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">(empty)</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" sdval="2" sdnum="1043;">2</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">(empty)</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">(empty)</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">(empty)</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 2px solid #000000" align="left"><br></td>
+	</tr>
+	<tr>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 2px solid #000000; border-right: 1px solid #000000" height="17" align="left" sdval="11" sdnum="1043;">11</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" sdnum="1043;0;D. MMM. JJJJ">3. aug. 2017</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" sdval="0,416666666666667" sdnum="1043;0;UU:MM:SS">10:00:00</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">CEST</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">(empty)</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" sdval="2" sdnum="1043;">2</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">(empty)</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">test</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">(empty)</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">(empty)</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 2px solid #000000" align="left"><br></td>
+	</tr>
+	<tr>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 2px solid #000000; border-right: 1px solid #000000" height="17" align="left" sdval="12" sdnum="1043;">12</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">(empty)</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">(empty)</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">(empty)</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">(empty)</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" sdnum="1043;0;D. MMM. JJJJ">(empty)</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" sdnum="1043;0;UU:MM:SS">(empty)</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">(empty)</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">(empty)</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">(empty)</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">(empty)</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">(empty)</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">(empty)</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">(empty)</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">(empty)</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left">(empty)</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 2px solid #000000" align="left"><br></td>
+	</tr>
+	<tr>
+		<td style="border-top: 1px solid #000000; border-bottom: 2px solid #000000; border-left: 2px solid #000000" height="17" align="left"><b>Total Result</b></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 2px solid #000000" align="left"><b><br></b></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 2px solid #000000" align="left"><b><br></b></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 2px solid #000000" align="left"><b><br></b></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 2px solid #000000" align="left"><b><br></b></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 2px solid #000000" align="left" sdnum="1043;0;D. MMM. JJJJ"><b><br></b></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 2px solid #000000" align="left" sdnum="1043;0;UU:MM:SS"><b><br></b></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 2px solid #000000" align="left"><b><br></b></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 2px solid #000000" align="left"><b><br></b></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 2px solid #000000" align="left"><b><br></b></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 2px solid #000000" align="left"><b><br></b></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 2px solid #000000" align="left"><b><br></b></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 2px solid #000000" align="left"><b><br></b></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 2px solid #000000" align="left"><b><br></b></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 2px solid #000000" align="left"><b><br></b></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 2px solid #000000; border-right: 1px solid #000000" align="left"><b><br></b></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 2px solid #000000; border-left: 1px solid #000000; border-right: 2px solid #000000" align="left"><b><br></b></td>
+	</tr>
+</table>
+<!-- ************************************************************************** -->
+<hr>
+<A NAME="table1"><h1>Sheet 2: <em>Sheet1</em></h1></A>
 <table cellspacing="0" border="0">
 	<colgroup width="46"></colgroup>
 	<colgroup width="219"></colgroup>
@@ -555,6 +847,583 @@
 		<td align="left"><br></td>
 		<td align="left" sdnum="1043;0;D. MMM. JJJJ"><br></td>
 		<td align="left" sdnum="1043;0;UU:MM:SS"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+	</tr>
+</table>
+<!-- ************************************************************************** -->
+<hr>
+<A NAME="table2"><h1>Sheet 3: <em>Database</em></h1></A>
+<table cellspacing="0" border="0">
+	<colgroup width="26"></colgroup>
+	<colgroup width="114"></colgroup>
+	<colgroup width="81"></colgroup>
+	<colgroup width="74"></colgroup>
+	<colgroup width="60"></colgroup>
+	<colgroup width="140"></colgroup>
+	<colgroup width="141"></colgroup>
+	<colgroup width="179"></colgroup>
+	<colgroup width="370"></colgroup>
+	<colgroup width="769"></colgroup>
+	<colgroup width="161"></colgroup>
+	<colgroup width="59"></colgroup>
+	<colgroup width="278"></colgroup>
+	<colgroup width="59"></colgroup>
+	<colgroup width="288"></colgroup>
+	<colgroup width="59"></colgroup>
+	<colgroup width="79"></colgroup>
+	<colgroup width="59"></colgroup>
+	<colgroup width="79"></colgroup>
+	<colgroup width="59"></colgroup>
+	<colgroup width="79"></colgroup>
+	<colgroup width="58"></colgroup>
+	<colgroup width="77"></colgroup>
+	<colgroup width="180"></colgroup>
+	<colgroup width="169"></colgroup>
+	<colgroup width="110"></colgroup>
+	<colgroup width="120"></colgroup>
+	<colgroup width="121"></colgroup>
+	<colgroup width="159"></colgroup>
+	<colgroup width="180"></colgroup>
+	<colgroup width="182"></colgroup>
+	<colgroup width="222"></colgroup>
+	<colgroup width="224"></colgroup>
+	<colgroup width="115"></colgroup>
+	<colgroup width="181"></colgroup>
+	<colgroup width="184"></colgroup>
+	<colgroup width="55"></colgroup>
+	<colgroup width="606"></colgroup>
+	<colgroup width="90"></colgroup>
+	<tr>
+		<td height="17" align="left"><b>ID</b></td>
+		<td align="left"><b>status</b></td>
+		<td align="left"><b>game_type</b></td>
+		<td align="left"><b>discipline</b></td>
+		<td align="left"><b>event</b></td>
+		<td align="left" sdnum="1043;0;D. MMM. JJJJ"><b>match_starting_date</b></td>
+		<td align="left" sdnum="1043;0;UU:MM:SS"><b>match_starting_time</b></td>
+		<td align="left"><b>match_starting_time_zone</b></td>
+		<td align="left"><b>pre_match_hyperlink1</b></td>
+		<td align="left"><b>pre_match_hyperlink2</b></td>
+		<td align="left"><b>number_of_contestants</b></td>
+		<td align="left"><b>A_label</b></td>
+		<td align="left"><b>A_address</b></td>
+		<td align="left"><b>B_label</b></td>
+		<td align="left"><b>B_address</b></td>
+		<td align="left"><b>C_label</b></td>
+		<td align="left"><b>C_address</b></td>
+		<td align="left"><b>D_label</b></td>
+		<td align="left"><b>D_address</b></td>
+		<td align="left"><b>E_label</b></td>
+		<td align="left"><b>E_address</b></td>
+		<td align="left"><b>F_label</b></td>
+		<td align="left"><b>F_address</b></td>
+		<td align="left"><b>minimum_betting_amount</b></td>
+		<td align="left"><b>minimum_confirmations</b></td>
+		<td align="left"><b>commission_%</b></td>
+		<td align="left"><b>closing_date_bet</b></td>
+		<td align="left"><b>closing_time_bet</b></td>
+		<td align="left"><b>closing_time_zone_bet</b></td>
+		<td align="left"><b>reddit_announcement_text</b></td>
+		<td align="left"><b>twitter_announcement_text</b></td>
+		<td align="left"><b>reddit_announcement_published</b></td>
+		<td align="left"><b>twitter_announcement_published</b></td>
+		<td align="left"><b>publishing_date</b></td>
+		<td align="left"><b>reddit_announcement_link</b></td>
+		<td align="left"><b>twitter_announcement_link</b></td>
+		<td align="left"><b>winner</b></td>
+		<td align="left"><b>winner link1</b></td>
+		<td align="left"><b>winner link2</b></td>
+	</tr>
+	<tr>
+		<td height="17" align="right" sdval="1" sdnum="1043;">1</td>
+		<td align="left">Processed – test</td>
+		<td align="left">e-sports</td>
+		<td align="left">LoL</td>
+		<td align="left">EU LCS</td>
+		<td align="right" sdval="42796" sdnum="1043;">42796</td>
+		<td align="right" sdval="0,666666666666667" sdnum="1043;">0,6666666667</td>
+		<td align="left">UTC</td>
+		<td align="left">http://eu.lolesports.com/en/league/eu-lcs</td>
+		<td align="left">http://www.espn.com/esports/story/_/id/14556983/esports-calendar-top-events-league-legends-dota-2-hearthstone-more#League</td>
+		<td align="right" sdval="2" sdnum="1043;">2</td>
+		<td align="left">UOL</td>
+		<td align="left">1QibeMDQjw9UoFtT8T1e139Ze3XH3HZSh</td>
+		<td align="left">MSF</td>
+		<td align="left">1Ky9TVDdNQmpGf2KGBFoqhdNdu3thDPrBW</td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="right" sdval="0,00001" sdnum="1043;">0,00001</td>
+		<td align="right" sdval="6" sdnum="1043;">6</td>
+		<td align="right" sdval="10" sdnum="1043;">10</td>
+		<td align="right" sdval="42796" sdnum="1043;">42796</td>
+		<td align="right" sdval="0,666666666666667" sdnum="1043;">0,6666666667</td>
+		<td align="left">UTC</td>
+		<td align="left">test</td>
+		<td align="left">test</td>
+		<td align="left">test</td>
+		<td align="left">test</td>
+		<td align="right" sdval="42787" sdnum="1043;">42787</td>
+		<td align="left">test</td>
+		<td align="left">test</td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+	</tr>
+	<tr>
+		<td height="17" align="right" sdval="2" sdnum="1043;">2</td>
+		<td align="left">Processed – test</td>
+		<td align="left">e-sports</td>
+		<td align="left">LoL</td>
+		<td align="left">EU LCS</td>
+		<td align="right" sdval="42796" sdnum="1043;">42796</td>
+		<td align="right" sdval="0,791666666666667" sdnum="1043;">0,7916666667</td>
+		<td align="left">UTC</td>
+		<td align="left">http://eu.lolesports.com/en/league/eu-lcs</td>
+		<td align="left">http://www.espn.com/esports/story/_/id/14556983/esports-calendar-top-events-league-legends-dota-2-hearthstone-more#League</td>
+		<td align="right" sdval="2" sdnum="1043;">2</td>
+		<td align="left">FNC</td>
+		<td align="left">1PdmnSVDJCG8aeeFfPdig9632JQP3QJsfR</td>
+		<td align="left">H2K</td>
+		<td align="left">1HucjEvJsZb75XVzc9skuG7zWKDkrDu2jo</td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="right" sdval="0,00001" sdnum="1043;">0,00001</td>
+		<td align="right" sdval="6" sdnum="1043;">6</td>
+		<td align="right" sdval="10" sdnum="1043;">10</td>
+		<td align="right" sdval="42796" sdnum="1043;">42796</td>
+		<td align="right" sdval="0,791666666666667" sdnum="1043;">0,7916666667</td>
+		<td align="left">UTC</td>
+		<td align="left">test</td>
+		<td align="left">test</td>
+		<td align="left">test</td>
+		<td align="left">test</td>
+		<td align="right" sdval="42787" sdnum="1043;">42787</td>
+		<td align="left">test</td>
+		<td align="left">test</td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+	</tr>
+	<tr>
+		<td height="17" align="right" sdval="3" sdnum="1043;">3</td>
+		<td align="left">Processed – test</td>
+		<td align="left">e-sports</td>
+		<td align="left">LoL</td>
+		<td align="left">EU LCS</td>
+		<td align="right" sdval="42798" sdnum="1043;">42798</td>
+		<td align="right" sdval="0,625" sdnum="1043;">0,625</td>
+		<td align="left">UTC</td>
+		<td align="left">http://eu.lolesports.com/en/league/eu-lcs</td>
+		<td align="left">http://www.espn.com/esports/story/_/id/14556983/esports-calendar-top-events-league-legends-dota-2-hearthstone-more#League</td>
+		<td align="right" sdval="2" sdnum="1043;">2</td>
+		<td align="left">OG</td>
+		<td align="left">1Mo9wXdLmBmTDXRg7Wj6f3rkYuDsECrztc</td>
+		<td align="left">MSF</td>
+		<td align="left">13ZwKGnHjaLorEPNPD6NEC6D78aUV9A2Tb</td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="right" sdval="0,00001" sdnum="1043;">0,00001</td>
+		<td align="right" sdval="6" sdnum="1043;">6</td>
+		<td align="right" sdval="30" sdnum="1043;">30</td>
+		<td align="right" sdval="42798" sdnum="1043;">42798</td>
+		<td align="right" sdval="0,625" sdnum="1043;">0,625</td>
+		<td align="left">UTC</td>
+		<td align="left">test</td>
+		<td align="left">test</td>
+		<td align="left">test</td>
+		<td align="left">test</td>
+		<td align="right" sdval="42795" sdnum="1043;">42795</td>
+		<td align="left">test</td>
+		<td align="left">test</td>
+		<td align="left">B label</td>
+		<td align="left">http://lol.esportswikis.com/wiki/League_Championship_Series/Europe/2017_Season/Spring_Season</td>
+		<td align="left"><br></td>
+	</tr>
+	<tr>
+		<td height="17" align="right" sdval="4" sdnum="1043;">4</td>
+		<td align="left">Processed – test</td>
+		<td align="left">e-sports</td>
+		<td align="left">LoL</td>
+		<td align="left">EU LCS</td>
+		<td align="right" sdval="42798" sdnum="1043;">42798</td>
+		<td align="right" sdval="0,75" sdnum="1043;">0,75</td>
+		<td align="left">UTC</td>
+		<td align="left">http://eu.lolesports.com/en/league/eu-lcs</td>
+		<td align="left">http://www.espn.com/esports/story/_/id/14556983/esports-calendar-top-events-league-legends-dota-2-hearthstone-more#League</td>
+		<td align="right" sdval="2" sdnum="1043;">2</td>
+		<td align="left">ROC</td>
+		<td align="left">1Nm3SHj1Au1gGK1Q3z1rzdVpqopkMMrJrp</td>
+		<td align="left">UOL</td>
+		<td align="left">13HX8zzgUzkAA3AeCXGLSC6Diyh8TBRBNL</td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="right" sdval="0,00001" sdnum="1043;">0,00001</td>
+		<td align="right" sdval="6" sdnum="1043;">6</td>
+		<td align="right" sdval="10" sdnum="1043;">10</td>
+		<td align="right" sdval="42798" sdnum="1043;">42798</td>
+		<td align="right" sdval="0,75" sdnum="1043;">0,75</td>
+		<td align="left">UTC</td>
+		<td align="left">test</td>
+		<td align="left">test</td>
+		<td align="left">test</td>
+		<td align="left">test</td>
+		<td align="right" sdval="42795" sdnum="1043;">42795</td>
+		<td align="left">test</td>
+		<td align="left">test</td>
+		<td align="left">B label</td>
+		<td align="left">http://lol.esportswikis.com/wiki/League_Championship_Series/Europe/2017_Season/Spring_Season</td>
+		<td align="left"><br></td>
+	</tr>
+	<tr>
+		<td height="17" align="right" sdval="5" sdnum="1043;">5</td>
+		<td align="left">waiting review</td>
+		<td align="left">e-sports</td>
+		<td align="left">LoL</td>
+		<td align="left">LCK</td>
+		<td align="right" sdval="42948" sdnum="1043;">42948</td>
+		<td align="right" sdval="0,416666666666667" sdnum="1043;">0,4166666667</td>
+		<td align="left">CEST</td>
+		<td align="left">https://eu.lolesports.com/en/schedule#slug=all&amp;tab=fixtures</td>
+		<td align="left"><br></td>
+		<td align="right" sdval="2" sdnum="1043;">2</td>
+		<td align="left">KT</td>
+		<td align="left"><br></td>
+		<td align="left">LZ</td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+	</tr>
+	<tr>
+		<td height="17" align="right" sdval="6" sdnum="1043;">6</td>
+		<td align="left">waiting review</td>
+		<td align="left">e-sports</td>
+		<td align="left">LoL</td>
+		<td align="left">LCK</td>
+		<td align="right" sdval="42948" sdnum="1043;">42948</td>
+		<td align="right" sdval="0,541666666666667" sdnum="1043;">0,5416666667</td>
+		<td align="left">CEST</td>
+		<td align="left">https://eu.lolesports.com/en/schedule#slug=all&amp;tab=fixtures</td>
+		<td align="left"><br></td>
+		<td align="right" sdval="2" sdnum="1043;">2</td>
+		<td align="left">SSG</td>
+		<td align="left"><br></td>
+		<td align="left">ROX</td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+	</tr>
+	<tr>
+		<td height="17" align="right" sdval="7" sdnum="1043;">7</td>
+		<td align="left">waiting review</td>
+		<td align="left">e-sports</td>
+		<td align="left">LoL</td>
+		<td align="left">LCK</td>
+		<td align="right" sdval="42949" sdnum="1043;">42949</td>
+		<td align="right" sdval="0,416666666666667" sdnum="1043;">0,4166666667</td>
+		<td align="left">CEST</td>
+		<td align="left">https://eu.lolesports.com/en/schedule#slug=all&amp;tab=fixtures</td>
+		<td align="left"><br></td>
+		<td align="right" sdval="2" sdnum="1043;">2</td>
+		<td align="left">EEW</td>
+		<td align="left"><br></td>
+		<td align="left">JAG</td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+	</tr>
+	<tr>
+		<td height="17" align="right" sdval="8" sdnum="1043;">8</td>
+		<td align="left">waiting review</td>
+		<td align="left">e-sports</td>
+		<td align="left">LoL</td>
+		<td align="left">LCK</td>
+		<td align="right" sdval="42949" sdnum="1043;">42949</td>
+		<td align="right" sdval="0,541666666666667" sdnum="1043;">0,5416666667</td>
+		<td align="left">CEST</td>
+		<td align="left">https://eu.lolesports.com/en/schedule#slug=all&amp;tab=fixtures</td>
+		<td align="left"><br></td>
+		<td align="right" sdval="2" sdnum="1043;">2</td>
+		<td align="left">MVP</td>
+		<td align="left"><br></td>
+		<td align="left">AFS</td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+	</tr>
+	<tr>
+		<td height="17" align="right" sdval="9" sdnum="1043;">9</td>
+		<td align="left">waiting review</td>
+		<td align="left">e-sports</td>
+		<td align="left">LoL</td>
+		<td align="left">EU LCS</td>
+		<td align="right" sdval="42950" sdnum="1043;">42950</td>
+		<td align="right" sdval="0,708333333333333" sdnum="1043;">0,7083333333</td>
+		<td align="left">CEST</td>
+		<td align="left">https://eu.lolesports.com/en/schedule#slug=all&amp;tab=fixtures</td>
+		<td align="left"><br></td>
+		<td align="right" sdval="2" sdnum="1043;">2</td>
+		<td align="left">MM</td>
+		<td align="left"><br></td>
+		<td align="left">SPY</td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+	</tr>
+	<tr>
+		<td height="17" align="right" sdval="10" sdnum="1043;">10</td>
+		<td align="left">waiting review</td>
+		<td align="left">e-sports</td>
+		<td align="left">LoL</td>
+		<td align="left">EU LCS</td>
+		<td align="right" sdval="42950" sdnum="1043;">42950</td>
+		<td align="right" sdval="0,833333333333333" sdnum="1043;">0,8333333333</td>
+		<td align="left">CEST</td>
+		<td align="left">https://eu.lolesports.com/en/schedule#slug=all&amp;tab=fixtures</td>
+		<td align="left"><br></td>
+		<td align="right" sdval="2" sdnum="1043;">2</td>
+		<td align="left">G2</td>
+		<td align="left"><br></td>
+		<td align="left">MSF</td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+	</tr>
+	<tr>
+		<td height="17" align="right" sdval="11" sdnum="1043;">11</td>
+		<td align="left">waiting review</td>
+		<td align="left">e-sports</td>
+		<td align="left">LoL</td>
+		<td align="left">LCK</td>
+		<td align="right" sdval="42950" sdnum="1043;">42950</td>
+		<td align="right" sdval="0,416666666666667" sdnum="1043;">0,4166666667</td>
+		<td align="left">CEST</td>
+		<td align="left">https://eu.lolesports.com/en/schedule#slug=all&amp;tab=fixtures</td>
+		<td align="left"><br></td>
+		<td align="right" sdval="2" sdnum="1043;">2</td>
+		<td align="left">SKT</td>
+		<td align="left"><br></td>
+		<td align="left">KT</td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+	</tr>
+	<tr>
+		<td height="17" align="right" sdval="12" sdnum="1043;">12</td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
+		<td align="left"><br></td>
 		<td align="left"><br></td>
 		<td align="left"><br></td>
 		<td align="left"><br></td>
